@@ -221,6 +221,22 @@ width: 100%;
     width: 100%;
 }
 
+footer{
+    max-width: 1440px;
+    margin: 0 auto;
+text-align: center;
+margin-top:100px;
+margin-bottom: 80px;
+border-radius: 8px;
+
+background: rgb(255, 244, 231);
+
+}
+
+footer div{
+    padding: 38px; 
+}
+
 /* responsive media  */
 
 @media screen and (max-width:576px){
